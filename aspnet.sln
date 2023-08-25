@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helloapp", "helloapp\helloapp.csproj", "{FE5CB212-147D-4AF0-BAED-FE31F791387D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "routingapp", "routingapp\routingapp.csproj", "{E9739754-E8F5-45B5-BAB2-EF5665EA892C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diapp", "diapp\diapp.csproj", "{6686181D-FED7-4163-AC6C-4D5157B5EA0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "configuration", "configuration\configuration.csproj", "{06D6FCEA-CDA3-4973-95DA-6203EAD971BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE5CB212-147D-4AF0-BAED-FE31F791387D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5CB212-147D-4AF0-BAED-FE31F791387D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5CB212-147D-4AF0-BAED-FE31F791387D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5CB212-147D-4AF0-BAED-FE31F791387D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9739754-E8F5-45B5-BAB2-EF5665EA892C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9739754-E8F5-45B5-BAB2-EF5665EA892C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9739754-E8F5-45B5-BAB2-EF5665EA892C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9739754-E8F5-45B5-BAB2-EF5665EA892C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6686181D-FED7-4163-AC6C-4D5157B5EA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6686181D-FED7-4163-AC6C-4D5157B5EA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6686181D-FED7-4163-AC6C-4D5157B5EA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6686181D-FED7-4163-AC6C-4D5157B5EA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06D6FCEA-CDA3-4973-95DA-6203EAD971BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D6FCEA-CDA3-4973-95DA-6203EAD971BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D6FCEA-CDA3-4973-95DA-6203EAD971BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D6FCEA-CDA3-4973-95DA-6203EAD971BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
